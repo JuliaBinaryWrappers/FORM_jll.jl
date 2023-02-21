@@ -1,0 +1,252 @@
+[[FORM]]
+arch = "aarch64"
+git-tree-sha1 = "53fae757db3e77ca44d2872a74d196897ce131ff"
+os = "macos"
+
+    [[FORM.download]]
+    sha256 = "dff4eaceaea402e1c6170a12b0a391945e0b36b8483f5cba2e837f50273ca899"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.aarch64-apple-darwin.tar.gz"
+[[FORM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb2756bb13248fe139f4587a0f32ec7f0c56b8c1"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "fa34fcad6e06fb5c75c9af3b80b3ee4b5d28316ab9856be08a37991fd833f3b6"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[FORM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a202a1d70e0b05b63fb8eef073857d9577074f15"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "f6eec6b2f4a87ed3c1d4b0ba75aa89ae9d05b9db56d150b9c3a1e195751f17bd"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[FORM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6fec61e5ef2ad9f12deb0242308e265e1be34620"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "ca0a97e49dfbe463e1acb9b11eba687fcaffffccfc2a7943eee569120f74c7d9"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[FORM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08511f9380dbbd4718fb534d9db4bb1e667a4eae"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "c7a728c435c1b57e593695bd0c1c02b1258e79855c448e74e5b5e658de7c9282"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[FORM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e316d90ca67faa54ff522b8b741bb7b57f824136"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "1a4b18fa703b59b6008fb0841646b4195efcfa86565e91894ee5b7a2dffe1249"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[FORM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "955022fe7422062df310cdd2b75d9ba4e4ffaeec"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "c55c667c800687bad1d655367292fd9edf25066de6d84d201c59cca360f1c03f"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[FORM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0316585a71f1bc9785bbcc32d4fda6cc247c9018"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "f7d35c2c0093b829a39dd6076bc47cbbf5818c912d6637f5fdc58859863e057c"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[FORM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26e3a404f86734ec765da13187f16848d03db98f"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "90d9a511ab7aa35fc6491481e723959e24f7ecc9c0f29195bb761d82f16481f6"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[FORM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3036acfaa3c6cf876e987993b845942e1bdad535"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "c41da0fb99f94bcce263c22f777003f376621f095b74d04d62627174f60a0d80"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[FORM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5533cd57ce5d55f4a0c1cb842c9647982188322"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "75f8c484465fb15733c528c5ab6235d4f24559a9152a2ffab22673ed3d6bd13c"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[FORM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "708ab8161f94b03a99e3b60f929fe7644973f26f"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "874aa292bfb667c2cfeadad629b6bce7f063028f50f11e738a5dc7f334484d24"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[FORM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "06ee71899378706ad5039614f5fa9a26f6cf498c"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "833cbfafd56484b7eeb7cce63f90b4f0df98fb69dd4888135f92d6dfd51538b3"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[FORM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b4dd14fb516b36d2568fd33038720e064d56289"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "5ad355aa855f3218388b6c4eed52bbb7d43c23428d61b6af238207a9d38df139"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[FORM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cbf09a57926a84fcc4fa32c758fb1bba21122fbd"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "f57b5e4a97d262c9738876a6052531025a5c6a5fae5918708a5ba65509fcd88e"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[FORM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f4fb27238fce261d9f2b59bd317ac02abfab4240"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "fa068c8c9884db731639d22f94ab92d193029f8a73bebe9925d35c9c70cf8416"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.i686-linux-musl-cxx03.tar.gz"
+[[FORM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c392b130aa791d0bbc58daa9f800439fc621977e"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "e6753ffddaf74c5e9e3ab102886551f680e0396a3110bd1ebbaa4e85903d2a1d"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.i686-linux-musl-cxx11.tar.gz"
+[[FORM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e5704d63dea41d45dc3702c2b5c358ba8cb40a04"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "a8b4893b70e78148ee677cb7c594d26549bb10a7bd28a4a4e767a097dbbfd884"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[FORM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b316a1950c42ea5827f91cf90506880a39e115f1"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "6d4fcf1df1641724d7a261ba1be3813fec0700881a50f063718d365e2c32bd48"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[FORM]]
+arch = "x86_64"
+git-tree-sha1 = "87f845fafb6af9a01e15e0f4dc261b36dbc63fcf"
+os = "macos"
+
+    [[FORM.download]]
+    sha256 = "16b2ba623fec11b24762f5d90bf325cd5136ca9fee3f9991e8c3df66c0599b32"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.x86_64-apple-darwin.tar.gz"
+[[FORM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59566c1fb9a2fb82689940ac12548aea1efb139f"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "d7de3abfdecd0a2a8a8fbb3f2c3fe3f6c95853c5f3677c28ad6ab6e9b14fdb2d"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[FORM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a6131cea0bcb1cb6390d1afa18f94ebc61ef0ce0"
+libc = "glibc"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "5d542376ac7844f1474e4305a4b110265a0434351e8cf15df15261cd6fb31dc5"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[FORM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "71e5cdb58d191241900d93702720a6bf76e13794"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "fc4e8eb14886e9d26a3ebeb9f9640061fee25866cb039f77ca5f19fdc3f20364"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[FORM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40c70fa3bba08e3c4af7c710b6631e2763026be0"
+libc = "musl"
+os = "linux"
+
+    [[FORM.download]]
+    sha256 = "a9ff1e992dffe6e3d9582e971e451d61d85e0fe08a1496ce4152359405a71ed5"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[FORM]]
+arch = "x86_64"
+git-tree-sha1 = "68ad5fb8bc50137dc9444ff4ca0483c60e49ca66"
+os = "freebsd"
+
+    [[FORM.download]]
+    sha256 = "c0fe710ab516e55486c8c13bea862fabf8dff380dae437ba7bacd70b92c522fc"
+    url = "https://github.com/JuliaBinaryWrappers/FORM_jll.jl/releases/download/FORM-v4.3.0+0/FORM.v4.3.0.x86_64-unknown-freebsd.tar.gz"
